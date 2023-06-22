@@ -1,0 +1,148 @@
+        body {
+            margin: 0%;
+            padding: 0%;
+            background-color: rgb(109, 172, 172);
+        }
+
+        .head {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            overflow: auto;
+            align-items: center;
+        }
+
+        .head p {
+            margin-top: 0px;
+            font-size: 30px;
+            font-weight: bold;
+        }
+
+        .head img {
+            margin-top: 4px;
+            width: 149px;
+            height: 144px;
+            border-radius: 621px;
+        }
+
+        h1 {
+            font-family: 'Ubuntu', sans-serif;
+            margin-top: 0%;
+            font-size: 55px;
+            color: rgb(68, 17, 134);
+        }
+
+        .body {
+            display: flex;
+            justify-content: center;
+            background: url('https://dotbadges.com/wp-content/uploads/2023/02/bestfriend-in-the-world.webp');
+            align-items: center;
+        }
+
+        .body1 {
+            margin: 40px;
+            padding: 15px 71px;
+            border: 2px solid black;
+            border-radius: 25px;
+        }
+
+        .g1 {
+            font-size: 36px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: rgb(21, 6, 96);
+            margin-bottom: 5px;
+        }
+
+        .g2 {
+            font-size: 23px;
+            color: rgb(9, 149, 7);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 5px;
+        }
+
+        ol {
+
+            color: #f3b030;
+            font-style: italic;
+            font-size: 22px;
+        }
+
+        section {
+            top: 0px;
+            font-size: 30px;
+        }
+
+        p {
+            text-align: center;
+            color: #154444;
+        }
+
+        .h3 {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .tab {
+            display: flex;
+            padding: 5px;
+            justify-content: center;
+            margin: 8px;
+        }
+
+        .h3 h3 {
+            font-weight: bold;
+            border: 2px solid brown;
+            background-color: rgb(5, 5, 95);
+            color: beige;
+            text-align: center;
+            padding: 12px;
+            font-size: 33px;
+            width: 205px;
+            border-radius: 30px;
+            font-family: 'Ubuntu', sans-serif;
+        }
+
+        table {
+            border: 5px solid black;
+            width: 500px;
+            height: 181px;
+            padding: 10px;
+            border-radius: 20px;
+        }
+
+        th {
+            text-shadow: 2px 2px white;
+            color: rgb(64, 7, 120);
+            font-size: 43px;
+        }
+
+        td {
+            color: antiquewhite;
+            font-size: 35px;
+        }
+        .foot1{
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            font-size: 30px;
+        }
+        .f1{
+            border: 2px solid rgb(100, 67, 5);
+            margin: 20px 500px;
+            color:rgb(144,9,9);
+            background-color:#55dede;
+            border-radius:30px ;
+            box-shadow: 5px 5px rgb(87, 158, 5);
+            padding: 15px;
+            text-align: center;
+        }
+        .f1 summary{
+            font-weight: bolder;
+        }
+        .f1 li{
+            font-size: 30px;
+            color: rgb(30 1 163);
+        }
+    
